@@ -367,7 +367,7 @@ Tracked per-player and per-AI-difficulty: wins, losses, games played, win rate.
 
 Its live at:
 ```
-https://the-lazy-dragon.github.io/savingitforlater.com
+https://the-lazy-dragon.github.io/NavalStrike/
 ```
 ***Try it ;)***
 
